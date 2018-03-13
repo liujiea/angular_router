@@ -3,4 +3,8 @@ Git is free software distributed under the GPL
 Git is has a mutable index called state
 Git tracks changes
 Greating a new branch is quick
-Greating a new branch is quick && master
+<<<<<<< HEAD
+Greating a new branch is quick AND simple
+=======
+Greating a new branch is quick AND simple
+>>>>>>> featurel
